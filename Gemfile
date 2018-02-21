@@ -9,6 +9,7 @@ end
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.5'
 gem 'savant-hosting', :github => 'savant-code/savant-hosting', :branch => 'master'
+gem 'devise'
 
 gem 'pg'
 # Use Puma as the app server
